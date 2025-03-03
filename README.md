@@ -30,3 +30,5 @@ This project provides an easy way to analyze weather data and present insights v
 
 Output:
 ![Image](https://github.com/user-attachments/assets/39c5bbdf-8c2c-4e4a-8bc9-c80dadb8413c)
+![Image](https://github.com/user-attachments/assets/9bf2ee82-3479-4194-8004-4fa8a9a66dec)
+
