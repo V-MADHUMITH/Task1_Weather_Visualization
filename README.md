@@ -27,4 +27,6 @@ How to Run
 - Start the dashboard with `streamlit run dashboard.py` to view interactive charts.  
 
 This project provides an easy way to analyze weather data and present insights visually.
+
 Output:
+![Image](https://github.com/user-attachments/assets/39c5bbdf-8c2c-4e4a-8bc9-c80dadb8413c)
