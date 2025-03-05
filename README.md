@@ -23,15 +23,15 @@ Features
 - Creates an interactive dashboard using Streamlit for better visualization.  
 
 Steps 
-1. Set Up the Environment: Install dependencies using `pip install requests matplotlib seaborn pandas streamlit`.  
-2. Fetch Weather Data: Use Python’s `requests` module to retrieve weather details such as temperature, humidity, and weather conditions.  
+1. Set Up the Environment: Install dependencies using pip install requests matplotlib seaborn pandas streamlit.  
+2. Fetch Weather Data: Use Python’s requests module to retrieve weather details such as temperature, humidity, and weather conditions.  
 3. Visualize Data: Generate bar charts comparing weather metrics across cities.  
 4. Build an Interactive Dashboard: Streamlit is used to display weather data tables and interactive visualizations.  
 5. Upload to GitHub: The project is version-controlled and stored on GitHub for easy sharing.  
 
 How to Run
-- Run `python weather_visualization.py` to fetch data and generate plots.  
-- Start the dashboard with `streamlit run dashboard.py` to view interactive charts.  
+- Run python weather_visualization.py to fetch data and generate plots.  
+- Start the dashboard with streamlit run dashboard.py to view interactive charts.  
 
 This project provides an easy way to analyze weather data and present insights visually.
 
